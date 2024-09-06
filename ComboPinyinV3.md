@@ -1,4 +1,6 @@
-# 宮保拼音 3.0
+# 宮保拼音
+
+![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-logo.png)
 
 ## 宮保拼音是啥
 
