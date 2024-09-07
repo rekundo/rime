@@ -24,8 +24,9 @@
 按照電腦鍵盤盲打指法，並擊共用到七個手指，故該並擊佈局也稱「七指禪」。
 除了標準鍵盤，宮保拼音也有適配分體鍵盤、九鍵鍵盤、速錄鍵盤的特定佈局。
 
-宮保拼音在 Rime 輸入法上的實現包含一組 [配置文件](https://github.com/rime/rime-combo-pinyin)，
+[宮保拼音輸入方案](https://github.com/rime/rime-combo-pinyin) 是在 Rime 輸入法上實現該並擊法的配置。
 輸入方案代碼爲 `combo_pinyin`。
+
 Rime 輸入法的 `chord_composer` 組件支持對並擊鍵位的自定義，通過拼寫運算技術將並擊組合鍵映射爲拼音音節。
 
 ## 軟硬件需求
