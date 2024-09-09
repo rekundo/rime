@@ -248,7 +248,7 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
     SCZHLFGDBKTP-IUÜANREO
 
-### 並擊鍵位一覽
+### 並擊鍵位濃縮圖
 
 ![並擊鍵位](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-chords.png)
 
