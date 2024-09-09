@@ -62,7 +62,7 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 這裏要補充是，本文以及宮保拼音 3.0 版本各種圖表中字母的用法：
 
   * 宮保拼音鍵位或並擊組合鍵用大寫字母表示。如 `SHANE`。
-  * 漢語拼音用小寫字母。爲明確拼寫法的種類，常用尖角括弧把拼音括起來，如 ‹shang›。
+  * 漢語拼音用小寫字母。爲明確拼寫法的種類，常用尖角括弧把拼音括起來，如 ⟨shang⟩。
   * QWERTY 鍵盤的字母鍵，本文用大寫字母指稱，但不套用代碼樣式。
   * 若敘述中同時提及鍵盤上的字母和宮保拼音鍵位，把宮保拼音鍵位及組合碼放在方括弧裏，以示區別。
     如：`[SHANE]` 須並擊鍵盤上的 S, D, K, L 及空格鍵。
@@ -75,7 +75,7 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ### 隔音符號
 
-‹a, o, e› 開頭的音節，與前面的音節之間用 `’` 隔開。
+⟨a, o, e⟩ 開頭的音節，與前面的音節之間用 `’` 隔開。
 
 這個符號在連續書寫或連擊拼音字母時運用。
 
@@ -116,15 +116,15 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 | eng | ing  | ueng |     |
 | ong | iong |      |     |
 
-表格第一行是 ‹i, u, ü› 三個韻母，他們可以用作介音，因此各自位於一豎行韻母的排頭。
+表格第一行是 ⟨i, u, ü⟩ 三個韻母，他們可以用作介音，因此各自位於一豎行韻母的排頭。
 
 表格左起第一豎行是不帶介音的韻母。按照順序，分別爲
 
-  - 單元音‹a, o, e›
-  - 韻尾爲‹-i›的雙元音‹ai, ei›
-  - 韻尾爲‹-u›的雙元音‹ao, ou›
-  - 韻尾爲‹-n›的前鼻音‹an, en›
-  - 韻尾爲‹-ng›的後鼻音‹ang, eng, ong›
+  - 單元音⟨a, o, e⟩
+  - 韻尾爲⟨-i⟩的雙元音⟨ai, ei⟩
+  - 韻尾爲⟨-u⟩的雙元音⟨ao, ou⟩
+  - 韻尾爲⟨-n⟩的前鼻音⟨an, en⟩
+  - 韻尾爲⟨-ng⟩的後鼻音⟨ang, eng, ong⟩
 
 他們與介音兩兩拼合，可得到表中的其他韻母。
 通過聲母表，我們可以觀察到介音於韻的搭配關係，據此設計和理解並擊的組合鍵。
@@ -132,17 +132,17 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 本文對上表需要補充的是：
 
 1. 左列不帶介音的韻母，每個都是一個整體的符號，組成這些韻母的多個字母只描述大致的發音部位，不能直接按照字母拼出。
-   特別是‹ao, ong›兩個韻母中字母‹o›對應的發音更接近元音‹u›，而距元音‹o›較遠。
+   特別是⟨ao, ong⟩兩個韻母中字母⟨o⟩對應的發音更接近元音⟨u⟩，而距元音⟨o⟩較遠。
    
 2. 介音與韻的搭配，顯示了一定的規律性。
-   如‹ai, ei›只與介音‹u›相拼、‹ai, ei›只與介音‹u›相拼、‹ao, ou›只與介音‹i›相拼；
-   又如‹o, e›在與介音的搭配上形成互補，‹o›只在少量音節中與‹e›形成對立且多爲語氣詞；
-   與韻尾搭配，‹ei, ou›也形成互補，因此有學者將‹o, e›處理爲同一個音位。
+   如⟨ai, ei⟩只與介音⟨u⟩相拼、⟨ai, ei⟩只與介音⟨u⟩相拼、⟨ao, ou⟩只與介音⟨i⟩相拼；
+   又如⟨o, e⟩在與介音的搭配上形成互補，⟨o⟩只在少量音節中與⟨e⟩形成對立且多爲語氣詞；
+   與韻尾搭配，⟨ei, ou⟩也形成互補，因此有學者將⟨o, e⟩處理爲同一個音位。
 
-3. ‹ong, iong›兩個韻母，按照傳統的四呼分類、或是注音符號的拼法，分屬合口呼（‹u›介音）、撮口呼（‹ü›介音）；
-   且‹ueng, ong›這兩個韻母在與聲母的搭配上形成互補——‹ueng›只拼零聲母或者說只用在自成音節的‹weng›，而‹ong›用於拼其他聲母。
+3. ⟨ong, iong⟩兩個韻母，按照傳統的四呼分類、或是注音符號的拼法，分屬合口呼（⟨u⟩介音）、撮口呼（⟨ü⟩介音）；
+   且⟨ueng, ong⟩這兩個韻母在與聲母的搭配上形成互補——⟨ueng⟩只拼零聲母或者說只用在自成音節的⟨weng⟩，而⟨ong⟩用於拼其他聲母。
    兩者無論從實際發音的近似性，還是歷史淵源，都可以視爲同一個韻母的條件變體。
-   如果拋開方案擬定的寫，按照四呼的分類，可將‹ong, iong›併入‹eng›行合口呼（‹u›介音）、撮口呼（‹ü›介音）的位置。
+   如果拋開方案擬定的寫，按照四呼的分類，可將⟨ong, iong⟩併入⟨eng⟩行合口呼（⟨u⟩介音）、撮口呼（⟨ü⟩介音）的位置。
    
 至此，我們可以將普通話的韻母歸納爲 3 個介音、2 類韻核、4 種韻尾搭配組合的音位配列。
 
@@ -162,13 +162,13 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 這三條介紹了未列入表中的韻母：
 
   - “知、蚩、詩、日、資、雌、思”等七個音節的韻母，也可叫做舌尖元音。
-    他的發音不同於‹i›，且傳統音韻學將其分類爲開口呼而非齊齒呼。大致可以放入表中左上角空白的位置。
-    本文爲了區別於‹i›，把舌尖元音標記爲‹ï›。注意這個符號不是《漢語拼音方案》的一部分。
+    他的發音不同於⟨i⟩，且傳統音韻學將其分類爲開口呼而非齊齒呼。大致可以放入表中左上角空白的位置。
+    本文爲了區別於⟨i⟩，把舌尖元音標記爲⟨ï⟩。注意這個符號不是《漢語拼音方案》的一部分。
     
-  - 韻母‹er›只獨用，不與聲母搭配。
-    從歷史上看，‹er›是從舌尖元音分化出來，也與舌尖元音形成互補。因此也可以併入左上角的單元格。
+  - 韻母⟨er⟩只獨用，不與聲母搭配。
+    從歷史上看，⟨er⟩是從舌尖元音分化出來，也與舌尖元音形成互補。因此也可以併入左上角的單元格。
     
-  - 韻母‹ê›極少單用，但與介音相拼得‹ie, üe›兩個韻母。反而是‹e›不能與任何介音拼合。可知方案視‹ê›爲‹e›的變體。
+  - 韻母⟨ê⟩極少單用，但與介音相拼得⟨ie, üe⟩兩個韻母。反而是⟨e⟩不能與任何介音拼合。可知方案視⟨ê⟩爲⟨e⟩的變體。
 
 >（4）i行的韻母，前面沒有聲母的時候，寫成 yi（衣），ya（呀），ye（耶），yao（腰），you（憂），yan（煙），yin（因），yang（央），ying（英），yong（雍）。\
 >u行的韻母，前面沒有聲母的時候，寫成 wu（烏），wa（蛙），wo（窩），wai（歪），wei（威），wan（彎），wen（溫），wang（汪），weng（翁）。\
@@ -179,14 +179,14 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 這兩條介紹了漢語拼音韻母在音節中的拼寫規則。請熟知：
 
-  - ‹i, u, ü›與各種聲母拼合時的改寫方法、拼音字母‹y, w›的使用；
-  - ‹iou, uei, uen›自成音節時（改寫首字母）以及與其他聲母拼合時（省略中間的元音字母）所得的兩種拼寫形式。
+  - ⟨i, u, ü⟩與各種聲母拼合時的改寫方法、拼音字母⟨y, w⟩的使用；
+  - ⟨iou, uei, uen⟩自成音節時（改寫首字母）以及與其他聲母拼合時（省略中間的元音字母）所得的兩種拼寫形式。
   
 宮保拼音不使用這些拼寫規則——同一個韻母在不同的音節裏有一致的鍵位和指法。
 
 >（6）在給漢字注音的時候，爲了使拼式簡短，ng可以省作ŋ。
 
-‹ng› 是一個韻尾。包含‹ng›的韻母，其發音部位較靠後，因此叫做「後鼻音」。本文將該韻尾表記爲‹-ng›。
+⟨ng⟩ 是一個韻尾。包含⟨ng⟩的韻母，其發音部位較靠後，因此叫做「後鼻音」。本文將該韻尾表記爲⟨-ng⟩。
 
 熟知了漢語拼音方案中的聲母、韻母和拼寫規則，再學習宮保拼音的聲母、韻母，就會思維透徹，條理清晰，事倍功半。
 
@@ -225,17 +225,17 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 各個縱列的分佈規律是：
 
   - 2 號指轄`[B][D][G]`、`[P][T][K]`。
-    不送氣清音‹b, d, g›位於盲點所在的列；送氣清音‹p, t, k›在距盲點較遠的一列。
-  - 3 號指轄`[F][L][H]`，即各行聲母中的邊音、擦音‹f, l, h›。
-  - 4 號指轄`[Z][C][S]`，即‹z, c, s›這組聲母。
+    不送氣清音⟨b, d, g⟩位於盲點所在的列；送氣清音⟨p, t, k⟩在距盲點較遠的一列。
+  - 3 號指轄`[F][L][H]`，即各行聲母中的邊音、擦音⟨f, l, h⟩。
+  - 4 號指轄`[Z][C][S]`，即⟨z, c, s⟩這組聲母。
 
 右手畔的韻母多用並擊。設有以下鍵位。
 
   - 2 號指轄 `[I][U][Ü]`，對應鍵盤上的字母 J, U, M
-  - 1 號指轄 `[A]`，用在包含元音字母 ‹a› 的並擊韻母裏，這在所有韻母中佔到近半數。
+  - 1 號指轄 `[A]`，用在包含元音字母 ⟨a⟩ 的並擊韻母裏，這在所有韻母中佔到近半數。
   - 4 號指轄 `[O][E]`
-  - 3 號指轄 `[N]` 表示韻尾 ‹-n›、`[R]` 表示韻母 ‹er›。用於並擊時，`[R]` 兼表韻尾 ‹-i› 或 ‹-u›。
-    兒化韻裏‹-r›做韻尾；雖然本方案不支持兒化韻，但因爲這層關係，將 `[R]` 鍵歸入韻尾之列，並統轄非鼻音韻尾。
+  - 3 號指轄 `[N]` 表示韻尾 ⟨-n⟩、`[R]` 表示韻母 ⟨er⟩。用於並擊時，`[R]` 兼表韻尾 ⟨-i⟩ 或 ⟨-u⟩。
+    兒化韻裏⟨-r⟩做韻尾；雖然本方案不支持兒化韻，但因爲這層關係，將 `[R]` 鍵歸入韻尾之列，並統轄非鼻音韻尾。
 
 與鍵盤上字母重合的宮保拼音鍵位有 `[S] [T] [U] [O]`。
 
@@ -260,11 +260,11 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-zh-ch-sh-ou-eng.png)
 
-4 號指、3 號指並擊 `[Z][C][S]` 與右邊相鄰的鍵，得到並擊聲母‹zh, ch, sh›。
+4 號指、3 號指並擊 `[Z][C][S]` 與右邊相鄰的鍵，得到並擊聲母⟨zh, ch, sh⟩。
 
-  - `ZF` = ‹zh›
-  - `CL` = ‹ch›
-  - `SH` = ‹sh›
+  - `ZF` = ⟨zh⟩
+  - `CL` = ⟨ch⟩
+  - `SH` = ⟨sh⟩
 
 `[ZH] [CH]` 需要錯行，指法不便利，故借用了與 `[H]` 同一列的鍵，改爲 `[ZF] [CL]`。
 
@@ -272,28 +272,28 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-m-n-r-uei-in.png)
 
-3 號指、2 號指並擊同一行的相鄰兩鍵，得到並擊聲母‹m, n, r›。
+3 號指、2 號指並擊同一行的相鄰兩鍵，得到並擊聲母⟨m, n, r⟩。
 
-  - `FB` = ‹m›
-  - `LD` = ‹n›
-  - `HG` = ‹r›
+  - `FB` = ⟨m⟩
+  - `LD` = ⟨n⟩
+  - `HG` = ⟨r⟩
 
-‹m›用同組的聲母 `[F][B]` 並擊，‹n›用同組的聲母 `[L][D]` 並擊，二者皆是各組聲母中的鼻音。
+⟨m⟩用同組的聲母 `[F][B]` 並擊，⟨n⟩用同組的聲母 `[L][D]` 並擊，二者皆是各組聲母中的鼻音。
 
-‹r›與`[H][G]`沒有直接關聯，他演化自中古漢語裏屬於鼻音聲母的日母，故與鼻音聲母並列。
+⟨r⟩與`[H][G]`沒有直接關聯，他演化自中古漢語裏屬於鼻音聲母的日母，故與鼻音聲母並列。
 
 #### j, q, x
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-j-q-x-iou-yun.png)
 
-‹j, q, x›復用 `[G][K][H]` 三鍵。兩組聲母在聲韻搭配上形成互補：
-‹g, k, h›只拼開口呼（無介音）、合口呼（‹-u›介音）的韻母，而‹j, q, x›只拼齊齒呼（‹-i›介音）、撮口呼（‹-ü›介音）的韻母。
+⟨j, q, x⟩復用 `[G][K][H]` 三鍵。兩組聲母在聲韻搭配上形成互補：
+⟨g, k, h⟩只拼開口呼（無介音）、合口呼（⟨-u⟩介音）的韻母，而⟨j, q, x⟩只拼齊齒呼（⟨-i⟩介音）、撮口呼（⟨-ü⟩介音）的韻母。
 
-這一規律反映在並擊指法上即爲：`[G][K][H]` 與 `[I]` 或 `[Ü]` 並擊時，代表聲母‹j, q, x›。
+這一規律反映在並擊指法上即爲：`[G][K][H]` 與 `[I]` 或 `[Ü]` 並擊時，代表聲母⟨j, q, x⟩。
 
 #### 尖團音
 
-分尖團的方言，`[G][K][H]` 與 `[I][Ü]` 並擊表示團音‹j, q, x›，
+分尖團的方言，`[G][K][H]` 與 `[I][Ü]` 並擊表示團音⟨j, q, x⟩，
 用 `[Z][C][S]` 與 `[I][Ü]` 並擊，表示與其對立的尖音。
 
 普通話不分尖團，不用這組並擊聲母。
@@ -306,14 +306,14 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 8 個韻母鍵各自代表一個韻母：
 
-  - `[I]` = ‹i›
-  - `[U]` = ‹u›
-  - `[Ü]` = ‹ü›
-  - `[A]` = ‹a›，單擊爲空格
-  - `[O]` = ‹o›，一些音節中可替代‹ou›
-  - `[E]` = ‹e›，一些音節中可替代‹ei›
-  - `[R]` = ‹er›，並擊時表示舌尖元音‹ï›，但通常省略
-  - `[N]` = ‹en›
+  - `[I]` = ⟨i⟩
+  - `[U]` = ⟨u⟩
+  - `[Ü]` = ⟨ü⟩
+  - `[A]` = ⟨a⟩，單擊爲空格
+  - `[O]` = ⟨o⟩，一些音節中可替代⟨ou⟩
+  - `[E]` = ⟨e⟩，一些音節中可替代⟨ei⟩
+  - `[R]` = ⟨er⟩，並擊時表示舌尖元音⟨ï⟩，但通常省略
+  - `[N]` = ⟨en⟩
 
 介音與韻的組合，無一例外用 `[I][U][Ü]` 與其他韻母並擊。
 
@@ -325,15 +325,15 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
   
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-space.png)
 
-音節‹'a›用特定並擊組合 `[AE]` 輸入。
+音節⟨'a⟩用特定並擊組合 `[AE]` 輸入。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-a-ia-ua.png)
 
 #### 複韻母
 
-雙元音‹ai, ei, ou›用 `[R]` 鍵與 `[A][E][O]` 並擊。`[R]` 代表韻尾 ‹-i› 或 ‹-u›。
+雙元音⟨ai, ei, ou⟩用 `[R]` 鍵與 `[A][E][O]` 並擊。`[R]` 代表韻尾 ⟨-i⟩ 或 ⟨-u⟩。
   
-雙元音‹ao›用`[AO]`並擊。韻尾的‹-u›用與拼寫一致的 `[O]` 表示。
+雙元音⟨ao⟩用`[AO]`並擊。韻尾的⟨-u⟩用與拼寫一致的 `[O]` 表示。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-ai-ao-an.png)
 
@@ -341,7 +341,7 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-zh-ch-sh-ou-eng.png)
   
-雙元音與介音相拼，得‹iao, iou, uai, uei›。
+雙元音與介音相拼，得⟨iao, iou, uai, uei⟩。
  
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-iao-yuan.png)
 
@@ -351,21 +351,21 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-m-n-r-uei-in.png)
 
-‹iou›省略中間的元音字母，並擊 `[IR]`；
-‹uei›省略中間的元音字母，並擊 `[UR]`。
+⟨iou⟩省略中間的元音字母，並擊 `[IR]`；
+⟨uei⟩省略中間的元音字母，並擊 `[UR]`。
 
-不同於漢語拼音的拼寫規則，上述省略形式也用於零聲母音節‹you, wei›。
+不同於漢語拼音的拼寫規則，上述省略形式也用於零聲母音節⟨you, wei⟩。
 
 #### 鼻韻母
 
-`[N]` 爲韻尾 ‹-n›，`[NE]` 爲韻尾 ‹-ng›。
-不與其他元音字母鍵並擊時，二者分別代表韻母‹en, eng›，省略拼音字母‹e›。
+`[N]` 爲韻尾 ⟨-n⟩，`[NE]` 爲韻尾 ⟨-ng⟩。
+不與其他元音字母鍵並擊時，二者分別代表韻母⟨en, eng⟩，省略拼音字母⟨e⟩。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-i-u-yu-er-en-o-e.png)
     
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-zh-ch-sh-ou-eng.png)
 
-按照四呼拼讀，‹en, in, uen, ün›分別爲並擊 `[N], [IN], [UN], [ÜN]`。
+按照四呼拼讀，⟨en, in, uen, ün⟩分別爲並擊 `[N], [IN], [UN], [ÜN]`。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-m-n-r-uei-in.png)
 
@@ -373,19 +373,19 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-j-q-x-iou-yun.png)
 
-按照四呼拼讀，‹eng, ing, ueng/ong, iong›分別爲並擊 `[NE], [INE], [UNE], [ÜNE]`。
+按照四呼拼讀，⟨eng, ing, ueng/ong, iong⟩分別爲並擊 `[NE], [INE], [UNE], [ÜNE]`。
     
-`[UNE]` = ‹ueng/ong›，需要錯行並擊，可借用 `[U]` 所在行的 `[RO]` 兩鍵代替 `[NE]`。於是有：
+`[UNE]` = ⟨ueng/ong⟩，需要錯行並擊，可借用 `[U]` 所在行的 `[RO]` 兩鍵代替 `[NE]`。於是有：
 
-`[URO]` = ‹ueng/ong›。相鄰三鍵並擊，指法便利。也可以看作爲‹ong›的拼寫而設置的並擊組合鍵。
+`[URO]` = ⟨ueng/ong⟩。相鄰三鍵並擊，指法便利。也可以看作爲⟨ong⟩的拼寫而設置的並擊組合鍵。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-ing-ong.png)
     
-`[ÜNE]` = ‹iong›，可以把三鍵同時上移到 `[IRO]` 的位置，使該並擊韻母更符合拼寫。
+`[ÜNE]` = ⟨iong⟩，可以把三鍵同時上移到 `[IRO]` 的位置，使該並擊韻母更符合拼寫。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-iong.png)
 
-`[A]` 與 `[N]` 並擊爲韻母‹an›。
+`[A]` 與 `[N]` 並擊爲韻母⟨an⟩。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-ai-ao-an.png)
 
@@ -395,11 +395,11 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-iao-yuan.png)
 
-`[A]` 與 `[NE]` 並擊爲韻母‹ang›。
+`[A]` 與 `[NE]` 並擊爲韻母⟨ang⟩。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-ang.png)
 
-`[A]` 與 `[INE], [URO]` 並擊，分別爲韻母‹iang, uang›。
+`[A]` 與 `[INE], [URO]` 並擊，分別爲韻母⟨iang, uang⟩。
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-iang-uang.png)
 
@@ -421,86 +421,86 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 只擊出聲母、韻母空缺時，由於韻母是拼音輸入法裏音節的必要成分，故添加一個缺省韻母，與聲母拼成一個常用音節。
 以下按照聲母表分組列出。
 
-    [B] = ‹bu›
-    [P] = ‹pu›
-    [F] = ‹fu›
-    [FB] = ‹me›
+    [B] = ⟨bu⟩
+    [P] = ⟨pu⟩
+    [F] = ⟨fu⟩
+    [FB] = ⟨me⟩
 
-該組聲母的呼讀音‹bo, po, mo, fo›對應的音節不十分常用，因而規定缺省韻母的音節爲‹bu, pu, fu›和‹me›，對應「不、麼」等常用字。
+該組聲母的呼讀音⟨bo, po, mo, fo⟩對應的音節不十分常用，因而規定缺省韻母的音節爲⟨bu, pu, fu⟩和⟨me⟩，對應「不、麼」等常用字。
 
-    [D] = ‹de›
-    [T] = ‹te›
-    [L] = ‹le›
-    [LD] = ‹ne›
+    [D] = ⟨de⟩
+    [T] = ⟨te⟩
+    [L] = ⟨le⟩
+    [LD] = ⟨ne⟩
 
-該組聲母的呼讀音‹de, te, ne, le›用於輸入語助詞「的、了」等常用字。
+該組聲母的呼讀音⟨de, te, ne, le⟩用於輸入語助詞「的、了」等常用字。
 
-    [G] = ‹ge›
-    [K] = ‹ke›
-    [H] = ‹he›
+    [G] = ⟨ge⟩
+    [K] = ⟨ke⟩
+    [H] = ⟨he⟩
 
-該組聲母的呼讀音‹ge, ke, he›皆常用，故設爲缺省韻母。
+該組聲母的呼讀音⟨ge, ke, he⟩皆常用，故設爲缺省韻母。
 
-‹j, q, x›必須與韻母並擊，因此不設缺省韻母。
+⟨j, q, x⟩必須與韻母並擊，因此不設缺省韻母。
 
-    [ZF] = ‹zhi›
-    [CL] = ‹chi›
-    [SH] = ‹shi›
-    [HG] = ‹ri›
+    [ZF] = ⟨zhi⟩
+    [CL] = ⟨chi⟩
+    [SH] = ⟨shi⟩
+    [HG] = ⟨ri⟩
 
-    [Z] = ‹si›
-    [C] = ‹si›
-    [S] = ‹si›
+    [Z] = ⟨si⟩
+    [C] = ⟨si⟩
+    [S] = ⟨si⟩
 
-這兩組聲母的缺省韻母爲舌尖元音‹ï›。
+這兩組聲母的缺省韻母爲舌尖元音⟨ï⟩。
 
 因爲在音節中的舌尖元音全部是缺省韻母，所以表示舌尖元音的 `[R]` 通常省略。
 
 #### O 通借爲 ou
 
-‹o›不帶介音時，只能拼出極少數的音節，且以語氣詞爲主。聲韻搭配存在許多未利用的空位。
-下列音節中借用 `[O]` 鍵表示韻母‹ou›。
+⟨o⟩不帶介音時，只能拼出極少數的音節，且以語氣詞爲主。聲韻搭配存在許多未利用的空位。
+下列音節中借用 `[O]` 鍵表示韻母⟨ou⟩。
 
-    [DO] = ‹dou›
-    [TO] = ‹tou›
-    [LO] = ‹lou›
-    [LDO] = ‹nou›
+    [DO] = ⟨dou⟩
+    [TO] = ⟨tou⟩
+    [LO] = ⟨lou⟩
+    [LDO] = ⟨nou⟩
     
-    [GO] = ‹gou›
-    [KO] = ‹kou›
-    [HO] = ‹hou›
+    [GO] = ⟨gou⟩
+    [KO] = ⟨kou⟩
+    [HO] = ⟨hou⟩
     
-    [ZFO] = ‹zhou›
-    [CLO] = ‹chou›
-    [SHO] = ‹shou›
-    [HGO] = ‹rou›
+    [ZFO] = ⟨zhou⟩
+    [CLO] = ⟨chou⟩
+    [SHO] = ⟨shou⟩
+    [HGO] = ⟨rou⟩
     
-    [ZO] = ‹zou›
-    [CO] = ‹cou›
-    [SO] = ‹sou›
+    [ZO] = ⟨zou⟩
+    [CO] = ⟨cou⟩
+    [SO] = ⟨sou⟩
   
-然而，‹pou, mou, fou›與‹po, mo, fo›存在對立，這組聲母拼‹ou›不可以借用 `[O]`。
+然而，⟨pou, mou, fou⟩與⟨po, mo, fo⟩存在對立，這組聲母拼⟨ou⟩不可以借用 `[O]`。
 
 #### E 通借爲 ei
 
-‹e›不帶介音時，是‹d›組、‹g›組聲母以及‹m›的缺省韻母；其他‹b›組聲母不與‹e›相拼。
-於是，這三組聲母可以借用 `[E]` 鍵表示拼韻母‹ei›。
+⟨e⟩不帶介音時，是⟨d⟩組、⟨g⟩組聲母以及⟨m⟩的缺省韻母；其他⟨b⟩組聲母不與⟨e⟩相拼。
+於是，這三組聲母可以借用 `[E]` 鍵表示拼韻母⟨ei⟩。
 
-    [BE] = ‹bei›
-    [PE] = ‹pei›
-    [FE] = ‹fei›
-    [FBE] = ‹mei›
+    [BE] = ⟨bei⟩
+    [PE] = ⟨pei⟩
+    [FE] = ⟨fei⟩
+    [FBE] = ⟨mei⟩
 
-    [DE] = ‹dei›
-    [TE] = ‹tei›
-    [LE] = ‹lei›
-    [LDE] = ‹nei›
+    [DE] = ⟨dei⟩
+    [TE] = ⟨tei⟩
+    [LE] = ⟨lei⟩
+    [LDE] = ⟨nei⟩
     
-    [GE] = ‹gei› 
-    [KE] = ‹kei› 
-    [HE] = ‹hei› 
+    [GE] = ⟨gei⟩ 
+    [KE] = ⟨kei⟩ 
+    [HE] = ⟨hei⟩ 
 
-然而，‹zhei, shei, zei, cei, sei›與‹zhe, she, ze, ce, se›存在對立，這組聲母拼‹ei›不可以借用 `[E]`。
+然而，⟨zhei, shei, zei, cei, sei⟩與⟨zhe, she, ze, ce, se⟩存在對立，這組聲母拼⟨ei⟩不可以借用 `[E]`。
 
 ##
 
