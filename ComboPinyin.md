@@ -2,6 +2,13 @@
 
 ![](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-logo.png)
 
+詩云：
+
+宮保拼音並擊術　節奏明快又直觀 \
+一擊一個中文字　能分平翹與尖團 \
+標準設備廣兼容　六鍵無衝七指禪 \
+速記千宗歸簡易　音韻萬變列琴盤
+
 ## 宮保拼音是啥
 
 宮保拼音，洋文：Combo Pinyin，是用電腦鍵盤並擊輸入的拼音輸入法。
