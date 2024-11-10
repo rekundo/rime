@@ -38,6 +38,9 @@
 
 Rime 輸入法的 `chord_composer` 組件支持對並擊鍵位的自定義，通過拼寫運算技術將並擊組合鍵映射爲拼音音節。
 
+建議初學者通讀本文後，到訪 [宮保拼音鍵位練習](https://lotem.github.io/typewriter/) 頁面練習指法；
+初步掌握並擊操作後，即可用 Rime 輸入法實踐並擊輸入。
+
 ## 軟硬件需求
 
 Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rime 輸入法](rime.im) 網站。
@@ -296,6 +299,8 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 
 ## 《宮保拼音》並擊方案詳解
 
+建議初學者通讀本文後，到訪 [宮保拼音鍵位練習](https://lotem.github.io/typewriter/) 頁面練習指法。
+
 ### 鍵盤佈局
 
 ![鍵盤佈局圖](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-layout.png)
@@ -310,7 +315,6 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 ### 鍵位與指法
 
 ![指法圖](https://github.com/rime/home/blob/master/images/combo-pinyin-v3/combo-pinyin-touch-typing.png)
-
 
 沿中軸線，上方的三行按鍵分爲左右兩個半區。
 
@@ -601,6 +605,8 @@ Rime 輸入法支持 Windows、Linux、macOS 等電腦操作系統。詳見 [Rim
 這是並擊技術與電腦軟硬件、與漢語言文字的美妙結合。
 
 要享受並擊輸入的便利，輕鬆自如地鍵字，須在理解和記憶本方案的基礎上，通過不斷的練習形成字音到並擊鍵位的條件反射。
+
+建議初學者通讀本文後，到訪 [宮保拼音鍵位練習](https://lotem.github.io/typewriter/) 頁面練習指法。
 
 本文用到的所有圖表彙編成卷，供用家參考。
 https://github.com/rime/home/blob/master/manual/combo-pinyin-cheatsheet.pdf
